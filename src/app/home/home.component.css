@@ -1,0 +1,22 @@
+.header {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  height: 60vh;
+  width: 100%;
+  position: relative;
+  background: url("forest.jpg");
+  background-size: cover;
+  color: antiquewhite;
+
+}
+
+.header-left {
+  width: 50%;
+}
+
+.header-img {
+  max-height: 60vh;
+}
+
